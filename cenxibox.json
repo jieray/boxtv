@@ -16,7 +16,7 @@
       "key": "py_xiaohys",
       "name": "小紅💖秒播",
       "type": 3,
-      "api": "https://chenxi11.dpdns.org/https://github.com/cen15/boxtv/raw/refs/heads/main/py/%E5%B0%8F%E7%BA%A2%E5%BD%B1%E8%A7%86.py",
+      "api": "https://od.lk/s/OTlfNjg4NTU1MTdf/%E5%B0%8F%E7%BA%A2%E5%BD%B1%E8%A7%86.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -61,7 +61,7 @@
       "key": "py_哇哇APP",
       "name": "哇哇🌏秒播",
       "type": 3,
-      "api": "https://chenxi11.dpdns.org/https://github.com/cen15/boxtv/raw/7c153fcf74e2dd80b7c7889eff25e9fb72f09698/py/%E5%93%87%E5%93%87APP.py",
+      "api": "https://od.lk/s/OTlfNjg3MzU3NDlf/%E5%93%87%E5%93%87APP.py",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -113,23 +113,6 @@
         "分类url": "http://kongtiao4.com/kovodshow/{cateId}-{area}-{by}------{catePg}---{year}.html;;mrcd0",
         "分类": "電影$1#連續劇$2#綜藝$3#動畫$4",
         "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||内地&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||内地&港台&日韩&欧美||国产&日本&欧美&其他"
-      }
-    },
-    {
-      "key": "csp_唐人街影视",
-      "name": "唐街🚓秒播",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "线路数组": "class=\"hl-tabs-btn hl-slide-swiper\"&&</a>[排序:备线7>备线4>备线8>备线6>线路1]",
-        "线路标题": "</i>&&</a>[不包含:全球高清]",
-        "简介": "+hl-col-xs-12 blurb\">&&</li>",
-        "分类url": "https://www.chinatownfilm.com/vodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
-        "分类": "電影$1#電視劇$2#綜藝$3#動漫$4",
-        "地区": "大陆&香港&台湾&欧美&日本&韩国&新马&泰国&其它||大陆&韩国&香港&台湾&日本&欧美&新马&泰国&其它||大陆&韩国&香港&台湾&日本&欧美&泰国&其它||大陆&韩国&香港&台湾&日本&欧美&其它"
       }
     },
     {
